@@ -1,3 +1,3 @@
 @reboot ip link add dummy type dummy
 @reboot ip link set dummy up
-@reboot ip addr add dev dummy [IPv6 address]
+@reboot ip addr add dev dummy [IPv6 address with block]
